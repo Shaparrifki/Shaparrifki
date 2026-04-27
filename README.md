@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Shaparrifki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there, I'm Rifki! 👋
 
-<!---
-Shaparrifki/Shaparrifki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a third-year Physics student focusing on Computational Physics and currently working as a Research Intern at the Center for Atmospheric Research, National Research and Innovation Agency (BRIN), Indonesia.
+
+* 🔭 **I’m currently working on:** Spatial-temporal analysis of drought indices (SPI) in Java using Google Earth Engine and Python.
+* 🌱 **I’m currently learning:** Deep Learning for atmospheric parameter retrieval and advanced climate data validation.
+* ⚡ **Research Interests:** Computational Physics, Climate Anomalies, and Ocean-Atmosphere Interactions.
+* 📫 **How to reach me:** [rifkisaparudin71@gmail.com]
